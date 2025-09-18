@@ -1,12 +1,12 @@
 # ds-coding-study
-2025-2 상명대학교 중앙동아리 이니로 자료구조 코딩테스트 스터디입니다.
+2025-2 상명대학교 중앙동아리 이니로 자료구조 코딩테스트 스터디 '포테이토의 구조'입니다.
 
 ## 👥 스터디원
 
 | 김민규 | 이혜연 |
 |:------:|:------:|
 | <img src="https://github.com/kingmingyu.png" width="150" height="150" /> | <img src="https://github.com/hyperon-hyeon.png" width="150" height="150" /> 
-| [@kingmingyu](https://github.com/kingmingyu) | [@kkshyun](https://github.com/hyperon-hyeon) |
+| [@kingmingyu](https://github.com/kingmingyu) | [@hyperon-hyeon](https://github.com/hyperon-hyeon) |
 
 ---
 
@@ -29,7 +29,6 @@
 | 6주차    | Greedy Algorithm              | 오프라인     |
 | 7주차    | Divide and Conquer            | 오프라인     |
 | 8주차    | 이분탐색                          | 온라인     |
-
 
 ---
 
