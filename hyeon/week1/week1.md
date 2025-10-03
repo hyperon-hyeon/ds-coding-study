@@ -2,9 +2,9 @@
 
 ---
 
-## 1. 스택
+## 1. 스택 - 백준 10828
 
-[](https://www.acmicpc.net/problem/10828)
+https://www.acmicpc.net/problem/10828
 
 ### 문제 요약
 
@@ -47,9 +47,9 @@
 
 ---
 
-## 2. 큐
+## 2. 큐 - 백준 1966
 
-[](https://www.acmicpc.net/problem/1966)
+https://www.acmicpc.net/problem/1966
 
 ### 문제 요약
 
